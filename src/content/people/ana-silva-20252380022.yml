@@ -1,0 +1,15 @@
+name:
+  compact: Ana Silva
+  full: Ana Beatriz Paulino da Silva
+avatar:
+  github: https://github.com/anabeatriz353.png
+  githubUC: https://avatars.githubusercontent.com/u/235788509
+occupations:
+  - id: 20252380022
+    type: student
+    course: csbes-jp
+    isFinished: false
+addresses:
+  github: https://github.com/anabeatriz353
+  linkedin: https://www.linkedin.com/in/ana-silva-b320a7441/
+  email: paulino.ana@academico.ifpb.edu.br
